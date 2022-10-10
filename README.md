@@ -1,108 +1,58 @@
-![Grasscutter](https://socialify.git.ci/Grasscutters/Grasscutter/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2022%2F04%2F25%2FxOiJn7lCdcT5Mw1.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
-<div align="center"><img alt="Documentation" src="https://img.shields.io/badge/Wiki-Grasscutter-blue?style=for-the-badge&link=https://github.com/Grasscutters/Grasscutter/wiki&link=https://github.com/Grasscutters/Grasscutter/wiki"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Grasscutters/Grasscutter?logo=java&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Grasscutters/Grasscutter/Build?logo=github&style=for-the-badge"></div>
+<div align="center"><a href="https://discord.gg/jWWuYEJwBM"><img alt="Discord - Leak2VN" src="https://media.discordapp.net/attachments/996763314573029507/1028674033824305162/u.png"></a></div>
 
-<div align="center"><a href="https://discord.gg/T5vZU6UyeG"><img alt="Discord - Grasscutter" src="https://img.shields.io/discord/965284035985305680?label=Discord&logo=discord&style=for-the-badge"></a></div>
+<div align="center"><a href="https://discord.gg/jWWuYEJwBM"><img alt="Discord - Leak2VN" src="https://img.shields.io/discord/969393714432716871?label=Discord&logo=discord&style=for-the-badge"></a></div>
 
-[EN](README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) | [FR](README_fr-FR.md) | [ES](README_es-ES.md) | [HE](README_HE.md) | [RU](README_ru-RU.md) | [PL](README_pl-PL.md) | [ID](README_id-ID.md) | [KR](README_ko-KR.md) | [FIL/PH](README_fil-PH.md) | [NL](README_NL.md) | [JP](README_ja-JP.md)
+[VN](README.md)
 
-**Attention:** We always welcome contributors to the project. Before adding your contribution, please carefully read our [Code of Conduct](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md).
+## Thông Tin
 
-## Current features
+* Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
+* **Discord: Shyr#2006**
+* Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
 
-* Logging in
-* Combat
-* Friends list
-* Teleportation
-* Gacha system
-* Co-op *partially* works
-* Spawning monsters via console
-* Inventory features (receiving items/characters, upgrading items/characters, etc)
+## Server Support Việt Nam
 
-## Quick setup guide
+**Leak2VN:** Để được hỗ trợ, vui lòng tham gia [Discord](https://discord.gg/jWWuYEJwBM).
 
-**Note:** For support please join our [Discord](https://discord.gg/T5vZU6UyeG).
+### Điều Kiện Để Chạy Server
 
-### Requirements
+* [Java SE - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) hoặc phiên bản cao hơn
 
-* [Java SE - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher
+* [MongoDB-Compass](https://www.mongodb.com/try/download/compass) (phiên bản mới nhất)
 
-  **Note:** If you just want to **run it**, then **jre** only is fine.
+* [MongoDB-Community](https://www.mongodb.com/try/download/community) (phiên bản mới nhất)
 
-* [MongoDB](https://www.mongodb.com/try/download/community) (recommended 4.0+)
+* Proxy: [Fiddler Classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe),...
 
-* Proxy Daemon: [mitmproxy](https://mitmproxy.org/) (mitmdump, recommended), [Fiddler Classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe), etc.
+### Server Chạy
 
-### Running
+**Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-**Note:** If you updated from an older version, delete `config.json` to regenerate it.
+1. Lấy `grasscutter.jar`
+   - Tải xuống từ [Đây](https://github.com/Grasscutters/Grasscutter/actions/workflows/build.yml)
+2. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi cho vào Folder đó.
 
-1. Get `grasscutter.jar`
-   - Download from [actions](https://github.com/Grasscutters/Grasscutter/actions/workflows/build.yml) or [build the server by yourself](#building).
-2. Create a `resources` folder in the directory where grasscutter.jar is located and move your `BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap` folders there *(Check the [wiki](https://github.com/Grasscutters/Grasscutter/wiki) for more details how to get those.)*
-3. Run Grasscutter with `java -jar grasscutter.jar`. **Make sure mongodb service is running as well.**
+**Lưu Ý**: 2.: Resource sẽ khác nhau ở mỗi phiên bản
 
-### Connecting with the client
+3. Chạy Grasscutter ở Run.bat với câu lệnh `java -jar grasscutter.jar`. **Đảm bảo rằng MongoDB có trong máy bạn**
 
-½. Create an account using [server console command](https://github.com/Grasscutters/Grasscutter/wiki/Commands#targeting).
+### Kết nối với Client
 
-1. Redirect traffic: (choose one only)
-    - mitmdump: `mitmdump -s proxy.py -k`
+½. Tạo acc của bạn trên **Console Server**. Conmand: `account create "Tên" "Uid"`. VD: `account create shyr 177013`
 
-        - Trust CA certificate:
+1. Proxy:
 
-          - The CA certificate is usually stored in `%USERPROFILE%\.mitmproxy`, double click `mitmproxy-ca-cert.cer` to [install](https://docs.microsoft.com/en-us/skype-sdk/sdn/articles/installing-the-trusted-root-certificate#installing-a-trusted-root-certificate) or...
-
-          - Via command line *(needs administration privileges)*
-
-             ```shell
-             certutil -addstore root %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.cer
-             ```
+    - Fiddler Classic: Chạy App Fiddler Classic, Mở `Decrypt HTTPS traffic` Tại (Tools -> Options -> HTTPS) hoặc thay đổi port (Tools -> Options -> Connections), Server mặc định ở Port `8888`,
+    - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
 
 
-    - Fiddler Classic: Run Fiddler Classic, turn on `Decrypt HTTPS traffic` in (Tools -> Options -> HTTPS) and change the default port in (Tools -> Options -> Connections) to anything other than `8888`, load [this script](https://github.com/Grasscutters/Grasscutter/wiki/Resources#fiddler-classic-jscript) (copy and paste the script in the `FiddlerScript` tab) and click the `Save Script` button.
+**Bạn cũng có thể sử dụng `start.cmd` để tự động khởi động máy chủ, nhưng bạn phải setup `JAVA_HOME` ở `start_config.cmd`.**
 
-    - [Hosts file](https://github.com/Grasscutters/Grasscutter/wiki/Resources#hosts-file)
 
-2. Set network proxy to `127.0.0.1:8080` or the proxy port you specified.
 
-- For mitmproxy: After setting up the network proxy and installing the certificate, check http://mitm.it/ if traffic is passing through mitmproxy.
+### Hướng dẫn các lệnh ở [wiki](https://github.com/Grasscutters/Grasscutter/wiki/Commands)!
 
-**You can also use `start.cmd` to start servers and proxy daemons automatically, but you have to set up `JAVA_HOME` enviroment and configure the `start_config.cmd` file.**
+**Thông Báo** Tạm thời các bạn đọc bản Tiếng Anh ở đó, mình sẽ Update Wiki Tiếng Việt sau.
 
-### Building
-
-Grasscutter uses Gradle to handle dependencies & building.
-
-**Requirements:**
-
-- [Java SE Development Kits - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher
-- [Git](https://git-scm.com/downloads)
-
-##### Windows
-
-```shell
-git clone https://github.com/Grasscutters/Grasscutter.git
-cd Grasscutter
-.\gradlew.bat # Setting up environments
-.\gradlew jar # Compile
-```
-
-##### Linux
-
-```bash
-git clone https://github.com/Grasscutters/Grasscutter.git
-cd Grasscutter
-chmod +x gradlew
-./gradlew jar # Compile
-```
-
-You can find the output jar in the root of the project folder.
-
-### Commands have moved to the [wiki](https://github.com/Grasscutters/Grasscutter/wiki/Commands)!
-
-# Quick Troubleshooting
-
-* If compiling wasn't successful, please check your JDK installation (Make sure its JDK 17 or higher and validated JDK's bin PATH variable)
-* My client doesn't connect, doesn't login, 4206, etc... - Mostly your proxy daemon setup is *the issue*, if using
-  Fiddler make sure it running on another port except 8888
-* Startup sequence: MongoDB > Grasscutter > Proxy Daemon (mitmdump, fiddler, etc.) > Game
+# Discord Leak2VN
+ - Nếu bạn cần giải đáp thắc mắc hay gặp lỗi gì thì hãy Join Discord [Leak2VN](https://discord.gg/jWWuYEJwBM).
