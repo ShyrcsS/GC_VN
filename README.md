@@ -35,7 +35,7 @@
 3. Tạo folder `resources`
 
 2. Ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
-* Link [Download](https://segggggggggg.com) (update sau) 
+* Link [Download](https://github.com/ShyrcsS/resources_seg2VN/releases/download/Resource3.1.X/Resources.3.1.X.zip) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 3. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
