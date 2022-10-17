@@ -29,7 +29,7 @@
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
 1. Lấy `grasscutter.jar`
-   - Tải xuống từ [Đây](https://github.com/Grasscutters/Grasscutter/actions/workflows/build.yml)
+   - Update Sau
 2. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi cho vào Folder đó.
 
 **Lưu Ý**: 2.: Resource sẽ khác nhau ở mỗi phiên bản
