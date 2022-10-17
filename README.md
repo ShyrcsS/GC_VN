@@ -28,11 +28,15 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
+1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/v1.4.1) và tải `Grasscutter.jar` trong mục v1.4.1.
+
+2. Ném `grasscutter.jar` vô Folder **GC_VN**
+
+2. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
 * Link [Download](https://segggggggggg.com) (update sau) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
-2. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
+3. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
 
 ### Kết nối với Client
 
