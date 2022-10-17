@@ -28,7 +28,7 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/v1.4.1) và tải `Grasscutter.jar` trong mục v1.4.1.
+1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/v1.4.1) và tải `grasscutter.jar` trong mục v1.4.1.
 
 2. Ném `grasscutter.jar` vô Folder **GC_VN**
 
