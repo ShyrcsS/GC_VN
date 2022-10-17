@@ -28,9 +28,10 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Lấy `grasscutter.jar`
-   - Update Sau
-2. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi cho vào Folder đó.
+1. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
+* Link [Download](https://segggggggggg.com) (update sau) 
+
+2. Nhấp vô **run.bat** để server chạy
 
 **Lưu Ý**: 2.: Resource sẽ khác nhau ở mỗi phiên bản
 
@@ -44,15 +45,6 @@
 
     - Fiddler Classic: Chạy App Fiddler Classic, Mở `Decrypt HTTPS traffic` Tại (Tools -> Options -> HTTPS) hoặc thay đổi port (Tools -> Options -> Connections), Server mặc định ở Port `8888`,
     - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
-
-
-**Bạn cũng có thể sử dụng `start.cmd` để tự động khởi động máy chủ, nhưng bạn phải setup `JAVA_HOME` ở `start_config.cmd`.**
-
-
-
-### Hướng dẫn các lệnh ở [wiki](https://github.com/Grasscutters/Grasscutter/wiki/Commands)!
-
-**Thông Báo** Tạm thời các bạn đọc bản Tiếng Anh ở đó, mình sẽ Update Wiki Tiếng Việt sau.
 
 # Discord Leak2VN
  - Nếu bạn cần giải đáp thắc mắc hay gặp lỗi gì thì hãy Join Discord [Leak2VN](https://discord.gg/jWWuYEJwBM).
