@@ -30,12 +30,11 @@
 
 1. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
 * Link [Download](https://segggggggggg.com) (update sau) 
+* **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
-2. Nhấp vô **run.bat** để server chạy
+2. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
 
-**Lưu Ý**: 2.: Resource sẽ khác nhau ở mỗi phiên bản
-
-3. Chạy Grasscutter ở Run.bat với câu lệnh `java -jar grasscutter.jar`. **Đảm bảo rằng MongoDB có trong máy bạn**
+**Đảm bảo rằng MongoDB có trong máy bạn**
 
 ### Kết nối với Client
 
