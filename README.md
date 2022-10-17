@@ -32,7 +32,9 @@
 
 2. Ném `grasscutter.jar` vô Folder **GC_VN**
 
-2. Ở Folder `resource` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
+3. Tạo folder `resources`
+
+2. Ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
 * Link [Download](https://segggggggggg.com) (update sau) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
