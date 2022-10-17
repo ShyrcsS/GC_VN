@@ -34,8 +34,6 @@
 
 2. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
 
-**Đảm bảo rằng MongoDB có trong máy bạn**
-
 ### Kết nối với Client
 
 ½. Tạo acc của bạn trên **Console Server**. Conmand: `account create "Tên" "Uid"`. VD: `account create shyr 177013`
