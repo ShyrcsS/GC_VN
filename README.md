@@ -28,9 +28,9 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/Grasscutter_v1.4.1) và tải `Leak2VN.jar` trong mục v1.4.1.
+1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/Grasscutter_v1.4.1) và tải `grasscutter.jar` trong mục Releases_v1.4.1.
 
-2. Ném `Leak2VN.jar` vô Folder **GC_VN**
+2. Ném `grasscutter.jar` vô Folder **GC_VN**
 
 3. Tạo folder `resources`
 
