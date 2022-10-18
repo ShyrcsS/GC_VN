@@ -6,7 +6,7 @@ call :LOG [Leak2VN] To
 call :LOG [Leak2VN] Segg2VN
 call :LOG [Leak2VN] discord.gg/leak2vn
 
-java -jar grasscutter.jar
+java -jar Leak2VN.jar
 
 :LOG
 echo [%time:~0,8%] %*
