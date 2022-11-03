@@ -1,6 +1,6 @@
-<div align="center"><a href="https://discord.gg/jWWuYEJwBM"><img alt="Discord - Leak2VN" src="https://media.discordapp.net/attachments/996763314573029507/1028674033824305162/u.png"></a></div>
+<div align="center"><a href=""><img alt="" src="https://media.discordapp.net/attachments/1015637794657419364/1037700624466333716/101724171_p0_master1200.jpg?width=748&height=421"></a></div>
 
-<div align="center"><a href="https://discord.gg/jWWuYEJwBM"><img alt="Discord - Leak2VN" src="https://img.shields.io/discord/969393714432716871?label=Discord&logo=discord&style=for-the-badge"></a></div>
+<div align="center"><a href=""><img alt="Discord" src=""></a></div>
 
 [VN](README.md)
 
@@ -9,10 +9,6 @@
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
 * **Discord: Shyr#2006**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
-
-## Server Support Việt Nam
-
-**Leak2VN:** Để được hỗ trợ, vui lòng tham gia [Discord](https://discord.gg/jWWuYEJwBM).
 
 ### Điều Kiện Để Chạy Server
 
@@ -49,5 +45,3 @@
     - Fiddler Classic: Chạy App Fiddler Classic, Mở `Decrypt HTTPS traffic` Tại (Tools -> Options -> HTTPS) hoặc thay đổi port (Tools -> Options -> Connections), Server mặc định ở Port `8888`,
     - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
 
-# Discord Leak2VN
- - Nếu bạn cần giải đáp thắc mắc hay gặp lỗi gì thì hãy Join Discord [Leak2VN](https://discord.gg/jWWuYEJwBM).
