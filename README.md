@@ -1,10 +1,11 @@
+<h1 align="center">GC_VN</h1>
 <div align="center"><a href=""><img alt="" src="https://media.discordapp.net/attachments/1015637794657419364/1037700624466333716/101724171_p0_master1200.jpg?width=748&height=421"></a></div>
 
 <div align="center"><a href=""><img alt="Discord" src=""></a></div>
 
 [VN](README.md)
 
-## Thông Tin
+<h1 align="center">Thông Tin</h1>
 
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
 * **Discord: Shyr#2006**
@@ -23,7 +24,7 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>Vô đây và tải grasscutter.jar + UA trong mục Releases 3.2.</summary>
+  <summary>1. Vô đây và tải grasscutter.jar + UA trong mục Releases 3.2.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040583327666675733/image.png"/>
 </details>
 <details>
