@@ -54,3 +54,6 @@
     - Fiddler Classic: Chạy App Fiddler Classic, Mở `Decrypt HTTPS traffic` Tại (Tools -> Options -> HTTPS) hoặc thay đổi port (Tools -> Options -> Connections), Server mặc định ở Port `8888`,
     - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
 
+2. Patch UA:
+    - Vô thư mục `Genshin Impact\Genshin Impact game\GenshinImpact_Data\Native` và ném file `UserAssembly.dll` vô folder này rồi bấn dấu tích để thay đổi UserAssembly.dll. 
+<img src="https://media.discordapp.net/attachments/996763314573029507/1032340372426334298/tut1.png"/>
