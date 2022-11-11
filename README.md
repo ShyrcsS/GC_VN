@@ -41,7 +41,7 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-* Link [Download](https://github.com/tamilpp25/Grasscutter_Resources) 
+* Link [Download Resource](https://github.com/tamilpp25/Grasscutter_Resources) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 <h1 align="center">Kết Nối Client</h1>
