@@ -10,7 +10,7 @@
 * **Discord: Shyr#2006**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
 
-### Điều Kiện Để Chạy Server
+<h1 align="center">Điều Kiện Chạy Server</h1>
 
 * [Java SE - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) hoặc phiên bản cao hơn
 
@@ -23,19 +23,19 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/vNahida_Segg_3.2) và tải `grasscutter.jar` + `UA` trong mục Releases 3.2.</summary>
+  <summary>Vô đây và tải grasscutter.jar + UA trong mục Releases 3.2.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040583327666675733/image.png"/>
 </details>
 <details>
-  <summary>2. Ném `grasscutter.jar` vô Folder **GC_VN**</summary>
+  <summary>2. Ném grasscutter.jar vô Folder GC_VN</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1032341183785091182/tut4.png"/>
 </details>
 <details>
-  <summary>3. Tạo folder `resources`, ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.</summary>
+  <summary>3. Tạo folder resources, ở Folder resources hãy tải file Resource có "BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap" rồi giải nén cho vào Folder resource đó.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1032341482784428042/tut6.png?width=898&height=383"/>
 </details>
 <details>
-  <summary>4. Nhấp vô **run.bat** để server chạy. Nếu mà chạy được như bức ảnh là Server bạn đã chạy thành công rồi đó.</summary>
+  <summary>4. Nhấp vô run.bat để server chạy. Nếu mà chạy được như bức ảnh là Server bạn đã chạy thành công rồi đó.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
 </details>
 
@@ -44,8 +44,7 @@
 * Link [Download](https://github.com/tamilpp25/Grasscutter_Resources) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
-
-### Kết nối với Client
+<h1 align="center">Kết Nối Client</h1>
 
 ½. Tạo acc của bạn trên **Console Server**. Conmand: `account create "Tên" "Uid"`. VD: `account create shyr 177013`
 
