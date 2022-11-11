@@ -24,14 +24,14 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/Grasscutter_v1.4.1) và tải `grasscutter.jar` trong mục Releases_v1.4.1.
+1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/vNahida_Segg_3.2) và tải `grasscutter.jar` trong mục Releases 3.2.
 
 2. Ném `grasscutter.jar` vô Folder **GC_VN**
 
 3. Tạo folder `resources`
 
 2. Ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
-* Link [Download](https://github.com/ShyrcsS/resources_leak2vn) 
+* Link [Download](https://github.com/tamilpp25/Grasscutter_Resources) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 3. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
