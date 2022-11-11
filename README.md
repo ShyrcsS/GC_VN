@@ -1,5 +1,5 @@
 <h1 align="center">GC_VN</h1>
-<div align="center"><a href=""><img alt="" src="https://media.discordapp.net/attachments/996763314573029507/1040593451969949726/gc_vn.png?width=838&height=417?width=748&height=421"></a></div>
+<div align="center"><a href=""><img alt="" src="https://media.discordapp.net/attachments/996763314573029507/1040593451969949726/gc_vn.png?width=838&height=417"></a></div>
 
 <div align="center"><a href=""><img alt="Discord" src=""></a></div>
 
