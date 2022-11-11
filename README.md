@@ -20,21 +20,30 @@
 
 * Proxy: [Fiddler Classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe),...
 
-### Server Chạy
+<h1 align="center">Server Chạy</h1>
+
+<details>
+  <summary>Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/vNahida_Segg_3.2) và tải `grasscutter.jar` + `UA` trong mục Releases 3.2.</summary>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1040583327666675733/image.png"/>
+</details>
+<details>
+  <summary>2. Ném `grasscutter.jar` vô Folder **GC_VN**</summary>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1032341183785091182/tut4.png"/>
+</details>
+<details>
+  <summary>3. Tạo folder `resources`, ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.</summary>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1032341482784428042/tut6.png?width=898&height=383"/>
+</details>
+<details>
+  <summary>4. Nhấp vô **run.bat** để server chạy. Nếu mà chạy được như bức ảnh là Server bạn đã chạy thành công rồi đó.</summary>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
+</details>
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-1. Vô [đây](https://github.com/ShyrcsS/GC_VN/releases/tag/vNahida_Segg_3.2) và tải `grasscutter.jar` trong mục Releases 3.2.
-
-2. Ném `grasscutter.jar` vô Folder **GC_VN**
-
-3. Tạo folder `resources`
-
-2. Ở Folder `resources` hãy tải file Resource có "`BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap`" rồi giải nén cho vào Folder resource đó.
 * Link [Download](https://github.com/tamilpp25/Grasscutter_Resources) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
-3. Nhấp vô **run.bat** để server chạy. **Đảm bảo rằng MongoDB có trong máy bạn**
 
 ### Kết nối với Client
 
