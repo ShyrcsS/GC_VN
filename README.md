@@ -40,8 +40,6 @@
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
 </details>
 
-**Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
-
 * Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.3) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
