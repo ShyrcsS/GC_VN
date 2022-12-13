@@ -24,8 +24,8 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>1. Vô đây và tải grasscutter.jar + UA trong mục Releases 3.2.</summary>
-  <img src="https://media.discordapp.net/attachments/996763314573029507/1040583327666675733/image.png"/>
+  <summary>1. Vô đây và tải grasscutter.jar + RSA Patch trong mục Releases 3.3.</summary>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1052251135731322953/image.png"/>
 </details>
 <details>
   <summary>2. Ném grasscutter.jar vô Folder GC_VN</summary>
@@ -42,7 +42,7 @@
 
 **Lưu Ý:** Nếu bạn cập nhật phiên bản mới hơn của Grasscutter, vui lòng xoá file `config.json` để tạo mới ở phiên bản đó.
 
-* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/Resource_3.2) 
+* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.3) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 <h1 align="center">Kết Nối Client</h1>
@@ -55,8 +55,9 @@
     - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
 
 2. Patch UA:
-    - Vô thư mục `Genshin Impact\Genshin Impact game\GenshinImpact_Data\Native` và ném file `UserAssembly.dll` vô folder này rồi bấn dấu tích để thay đổi UserAssembly.dll. 
+    - Sau khi tải xong hãy giải nén nó ra và cho Folder `Grasscutter` + File `version.dll` vào Folder `Genshin Impact game` và thế là xong. Giờ chỉ cần chạy Server và Bật Fiddler là vô thôi. 
+Lưu ý: khi muốn về lại Off hãy xoá Folder `Grasscutter` + File `version.dll` là xong
 <details>
   <summary></summary>
-  <img src="https://media.discordapp.net/attachments/996763314573029507/1032340372426334298/tut1.png"/>
+  <img src="https://media.discordapp.net/attachments/996763314573029507/1051892642381840436/Anh_chup_man_hinh_330.png?width=936&height=468"/>
 </details>
