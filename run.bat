@@ -1,10 +1,10 @@
 @echo off
 title Nahida Seggggg
 cls
-call :LOG [Nahida Segg] Welcome
-call :LOG [Nahida Segg] To 
-call :LOG [Nahida Segg] Private Server
-call :LOG [Nahida Segg] !!!
+call :LOG [GC_VN] Welcome
+call :LOG [GC_VN] To 
+call :LOG [GC_VN] Private Server
+call :LOG [GC_VN] !!!
 
 java -jar grasscutter.jar
 
