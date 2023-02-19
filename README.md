@@ -8,7 +8,7 @@
 <h1 align="center">Thông Tin</h1>
 
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
-* **Discord: Shyr#2006**
+* **Discord: lys#2006**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
 
 <h1 align="center">Điều Kiện Chạy Server</h1>
@@ -24,7 +24,7 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>1. Vô đây và tải grasscutter.jar + RSA Patch trong mục Releases 3.3.</summary>
+  <summary>1. Vô đây và tải grasscutter.jar + RSA Patch trong mục Releases 3.4.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1052251135731322953/image.png"/>
 </details>
 <details>
