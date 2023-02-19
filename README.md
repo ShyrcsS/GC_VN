@@ -10,6 +10,7 @@
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
 * **Discord: lys#2006**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
+* Phiên bản hỗ trợ: **3.4**
 
 <h1 align="center">Điều Kiện Chạy Server</h1>
 
@@ -40,7 +41,7 @@
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
 </details>
 
-* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.3) 
+* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.4) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 <h1 align="center">Kết Nối Client</h1>
