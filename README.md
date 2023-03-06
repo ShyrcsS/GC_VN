@@ -10,7 +10,8 @@
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
 * **Discord: lys#2006**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
-* Phiên bản hỗ trợ: **3.4**
+* Phiên bản hỗ trợ: **3.5**
+* Windy!!!
 
 <h1 align="center">Điều Kiện Chạy Server</h1>
 
@@ -25,7 +26,7 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>1. Vô đây và tải grasscutter.jar + RSA Patch trong mục Releases 3.4.</summary>
+  <summary>1. Vô đây và tải grasscutter.jar + RSA Patch trong mục Releases 3.5.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1052251135731322953/image.png"/>
 </details>
 <details>
@@ -33,7 +34,7 @@
   <img src="https://media.discordapp.net/attachments/996763314573029507/1032341183785091182/tut4.png"/>
 </details>
 <details>
-  <summary>3. Tạo folder resources, ở Folder resources hãy tải file Resource có "BinOutput, ExcelBinOutput, Readables, Scripts, Subtitle, TextMap" rồi giải nén cho vào Folder resource đó.</summary>
+  <summary>3. Tạo folder resources, ở Folder resources hãy tải file Resource có "BinOutput, ExcelBinOutput, Scripts, TextMap" rồi giải nén cho vào Folder resources đó.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1032341482784428042/tut6.png?width=898&height=383"/>
 </details>
 <details>
@@ -41,7 +42,7 @@
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
 </details>
 
-* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.4) 
+* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.5) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 <h1 align="center">Kết Nối Client</h1>
