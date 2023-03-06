@@ -26,7 +26,7 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>1. [Vô đây](https://github.com/ShyrcsS/GC_VN/releases/tag/v3.5) và tải grasscutter.jar + RSA Patch trong mục Releases 3.5.</summary>
+  <summary>1. Vô đây https://github.com/ShyrcsS/GC_VN/releases/tag/v3.5 và tải grasscutter.jar + RSA Patch trong mục Releases 3.5.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1052251135731322953/image.png"/>
 </details>
 <details>
