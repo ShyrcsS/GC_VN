@@ -54,7 +54,7 @@
     - Fiddler Classic: Chạy App Fiddler Classic, Mở `Decrypt HTTPS traffic` Tại (Tools -> Options -> HTTPS) hoặc thay đổi port (Tools -> Options -> Connections), Server mặc định ở Port `8888`,
     - Chọn OK trong menu Options và tìm FiddlerScript. Chọn mục đó và copy [Script](https://github.lunatic.moe/fiddlerscript). Paste script vừa chọn vào Fiddler thay thế script cũ, lưu ý nhớ chọn Save Script.
 
-2. Patch UA:
+2. RSA Patch:
     - Sau khi tải xong hãy giải nén nó ra và cho Folder `Grasscutter` + File `version.dll` vào Folder `Genshin Impact game` và thế là xong. Giờ chỉ cần chạy Server và Bật Fiddler là vô thôi. 
 Lưu ý: khi muốn về lại Off hãy xoá Folder `Grasscutter` + File `version.dll` là xong
 <details>
