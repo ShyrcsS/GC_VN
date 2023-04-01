@@ -17,8 +17,6 @@
 
 * [Java SE - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) hoặc phiên bản cao hơn
 
-* [MongoDB-Compass](https://www.mongodb.com/try/download/compass) (phiên bản mới nhất)
-
 * [MongoDB-Community](https://www.mongodb.com/try/download/community) (phiên bản mới nhất)
 
 * Proxy: [Fiddler Classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe),...
