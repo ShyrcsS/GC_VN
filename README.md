@@ -10,7 +10,7 @@
 * Hưỡng dẫn bằng Tiếng Việt - nếu có dịch sai thì vui lòng DMs cho mình để sửa lại
 * **Discord: Shyrcs#7898**
 * Source: [Grasscutter](https://github.com/Grasscutters/Grasscutter)
-* Phiên bản hỗ trợ: **3.5**
+* Phiên bản hỗ trợ: **3.6**
 * Windy!!!
 
 <h1 align="center">Điều Kiện Chạy Server</h1>
