@@ -24,7 +24,7 @@
 <h1 align="center">Server Chạy</h1>
 
 <details>
-  <summary>1. Vô đây https://github.com/ShyrcsS/GC_VN/releases/tag/v3.5 và tải grasscutter.jar + RSA Patch trong mục Releases 3.5.</summary>
+  <summary>1. Vô đây https://github.com/ShyrcsS/GC_VN/releases/tag/v3.6 và tải grasscutter.jar + RSA Patch trong mục Releases 3.6.</summary>
   <img src="https://media.discordapp.net/attachments/996763314573029507/1052251135731322953/image.png"/>
 </details>
 <details>
@@ -40,7 +40,7 @@
   <img src="https://media.discordapp.net/attachments/996763314573029507/1040584691444621372/image.png?width=791&height=417"/>
 </details>
 
-* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.5) 
+* Link [Download Resource](https://github.com/ShyrcsS/Resource_Sayno/releases/tag/v3.6) 
 * **Lưu Ý**: Resource sẽ khác nhau ở mỗi phiên bản
 
 <h1 align="center">Kết Nối Client</h1>
